@@ -1,0 +1,20 @@
+main {
+    text-align: justify;
+    margin: auto;
+}
+nav > a {
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+nav {
+    padding: 1rem;
+}
+
+.card > a {
+    width:max-content;
+}
+.card {
+    height: auto;
+}
